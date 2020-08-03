@@ -1,0 +1,1 @@
+flag{old_but_gold_attacks_with_cgi_joe}

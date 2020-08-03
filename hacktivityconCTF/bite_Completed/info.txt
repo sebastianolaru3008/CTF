@@ -1,0 +1,1 @@
+search for ?page=flag then find flag.txt with local file inclusion (but u have to use the null byte approach

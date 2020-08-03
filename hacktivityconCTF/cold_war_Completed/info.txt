@@ -1,0 +1,1 @@
+use stegsnow -C to find the flag

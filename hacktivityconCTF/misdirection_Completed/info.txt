@@ -1,0 +1,1 @@
+use wireshark to find hidden info and then make a python script to make the flag

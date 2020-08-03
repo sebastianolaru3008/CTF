@@ -1,0 +1,1 @@
+use bless and copy all hexdump to get a text message.

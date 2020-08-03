@@ -1,0 +1,1 @@
+binwalk finds a zlib file. use 'filext.com' to read the data from the file
